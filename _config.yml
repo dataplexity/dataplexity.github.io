@@ -5,10 +5,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: dataplexity.eu # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Silvio
+username: Dataplexity.eu
 user_description: Our cause is visualizing scientific data sets.
 project_description: Below find my portfolio.
-user_title: CEO
+user_title: Silvio Heinze, CEO
 email: s.heinze@dataplexity.org
 twitter_username: twitter_username
 github_username: github_username
