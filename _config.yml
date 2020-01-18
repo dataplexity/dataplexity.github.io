@@ -7,11 +7,9 @@ url: dataplexity.eu # the base hostname & protocol for your site e.g. http://wil
 # User settings
 username: Dataplexity.eu
 user_description: Our cause is visualizing scientific data sets.
-project_description: Below find my portfolio.
-user_title: Silvio Heinze, CEO
+project_description: Our Portfolio
+user_title: an all new perspective on data.
 email: s.heinze@dataplexity.org
-twitter_username: twitter_username
-github_username: github_username
 
 # Google-analytics
 google-analytics:
