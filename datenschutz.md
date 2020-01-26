@@ -6,12 +6,10 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ## VERANTWORTLICHER
 
-Dataplexity e.U. <br>
+Dataplexity.eu <br>
 Inh.: Silvio Heinze <br>
 Kirchengasse 7/12,
 AT-1070 Wien<br>
-FN 475068b<br>
-ATU 71342745 <br>
 s.heinze@dataplexity.eu
 
 ### Arten der verarbeiteten Daten
